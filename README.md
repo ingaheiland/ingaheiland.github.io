@@ -1,7 +1,7 @@
 # Inga Heiland
 ![young beautiful and smart woman](pics/profilepic.JPG)
 ## Position
-Am IFO
+Am IFO angestellt
 
 ## Research
 blablabla
