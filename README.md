@@ -1,4 +1,3 @@
-# Inga Heiland
 ![young beautiful and smart woman](pics/profilepic.JPG)
 
 ## Welcome
