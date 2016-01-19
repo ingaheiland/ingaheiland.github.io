@@ -12,6 +12,7 @@ blablabla
  * 1986 born 
  * 1993 Waldorfschule
  * more blabla
+ * yet more blabla
 
 ## Publications
 
