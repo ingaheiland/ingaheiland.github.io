@@ -10,7 +10,8 @@ blablabla
 ## CV
 
  * 1986 born 
- * 1992 Waldorfschule
+ * 1993 Waldorfschule
+ * more blabla
 
 ## Publications
 
