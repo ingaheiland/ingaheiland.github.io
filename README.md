@@ -39,25 +39,9 @@ We argue that the narrative of variety-induced gains from trade in differentiate
 <br>
 #### Mitigating Liquidity Constraints: Public Export Credit Guarantees in Germany, *with G. Felbermayr and E. Yalcin*
 
-Reportedly, firms often find it impossible to finance large and long-term projects despite positive net present values. Should governments step in and can their assistance be effective? This paper studies the case of public export credit guarantees in Germany. Covering the default risk of exporters’ foreign customers, the policy is supposed to enable funding of international business opportunities that would otherwise remain unexploited. Using German firm-level data covering the universe of publicly insured firms for the years 2000 to 2010, this study tests for the causal effect of guarantees on sales and employment. It employs a difference-in-differences strategy combined with a matching approach, to create an appropriate control group of untreated firms. It finds that guarantees increase firm-level sales and employment on average by about 4.5 and 3.0 percentage points, respectively. During the financial crisis of 2008/09, effects turn out larger. These findings suggest the presence of credit constraints and provide an argument justifying the observed government intervention.[[CESifo Working Paper No. 3908, 2012](https://www.cesifo-group.de/DocDL/cesifo1_wp3908.pdf)]
-
-
-
-
-## Position
-Am IFO angestellt
-
-## Research
-blablabla
-
+Reportedly, firms often find it impossible to finance large and long-term projects despite positive net present values. Should governments step in and can their assistance be effective? This paper studies the case of public export credit guarantees in Germany. Covering the default risk of exporters’ foreign customers, the policy is supposed to enable funding of international business opportunities that would otherwise remain unexploited. Using German firm-level data covering the universe of publicly insured firms for the years 2000 to 2010, this study tests for the causal effect of guarantees on sales and employment. It employs a difference-in-differences strategy combined with a matching approach, to create an appropriate control group of untreated firms. It finds that guarantees increase firm-level sales and employment on average by about 4.5 and 3.0 percentage points, respectively. During the financial crisis of 2008/09, effects turn out larger. These findings suggest the presence of credit constraints and provide an argument justifying the observed government intervention. [[CESifo Working Paper No. 3908, 2012](https://www.cesifo-group.de/DocDL/cesifo1_wp3908.pdf)]
 
 ## CV
 
- * 1986 born 
- * 1993 Waldorfschule
- * more blabla
- * yet more blabla
-
-## Publications
-
- * eat this
+* PDF
+* [My professional profile at the Ifo Institute](http://www.cesifo-group.de/heiland-i) 
