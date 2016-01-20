@@ -1,4 +1,4 @@
-![young beautiful and smart woman](pics/profilepic.JPG)
+![young beautiful and smart woman](pics/Heiland_Inga_04_d.JPG)
 
 ## Welcome
 I am a 5th year doctoral student in economics at the University of Munich, Germany and junior researcher at the Ifo Institute in Munich. My supervisor is Prof. Gabriel Felbermayr, PhD.
