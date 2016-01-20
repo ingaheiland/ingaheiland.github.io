@@ -14,10 +14,9 @@ I obtained my undergraduate education from Tuebingen University, Germany. In the
 
 ## Contact Details
 
-Center for International Economics at the Ifo Institute
-Poschingerstrasse 5, D-80637 Munich
-Phone +49 89 9224 1295
-Email [heiland at ifo.de](mailto:heiland@ifo.de)
+* Center for International Economics at the Ifo Institute, Poschingerstrasse 5, D-80637 Munich
+* Phone +49 89 9224 1295
+* Email [heiland at ifo.de](mailto:heiland@ifo.de)
 
 ## Research
 
