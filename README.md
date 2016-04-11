@@ -25,7 +25,7 @@ Many countries offer state credit guarantee programs to improve access to financ
 
 <br>
 #### Going Deep: The Trade and Welfare Effects of TTIP, *with R. Aichele and G. Felbermayr*
-Since July 2013, the EU and the US have been negotiating a preferential trade agreement (PTA), the Transatlantic Trade and Investment Partnership (TTIP). We use a multi-country, multi-industry Ricardian trade model with national and international input-output linkages to quantify its potential economic consequences. We structurally estimate the sectoral trade flow elasticities of trade costs and of existing PTAs. We simulate the trade, value added, and welfare effects of the TTIP, assuming that the agreement would eliminate all transatlantic tariffs and reduce non-tariff barriers as other deep PTAs have. The long-run level of real per capita income would change by 2.12% in the EU, by 2.68% in the US, and by -0.03% in the rest of the world relative to the status quo. However, there is substantial heterogeneity across the 134 geographical entities that we investigate. Gross value of EU-US trade could triple, but its value added would grow by substantially less. Moreover, trade diversion effects are more pronounced in value added trade than in gross trade. This signals a deepening of the transatlantic value chain. [[CESifo Working Paper No. 5150, 2014](https://www.cesifo-group.de/DocDL/cesifo1_wp4387.pdf)]
+Since July 2013, the EU and the US have been negotiating a preferential trade agreement (PTA), the Transatlantic Trade and Investment Partnership (TTIP). We use a multi-country, multi-industry Ricardian trade model with national and international input-output linkages to quantify its potential economic consequences. We structurally estimate the sectoral trade flow elasticities of trade costs and of existing PTAs. We simulate the trade, value added, and welfare effects of the TTIP, assuming that the agreement would eliminate all transatlantic tariffs and reduce non-tariff barriers as other deep PTAs have. The long-run level of real per capita income would change by 2.12% in the EU, by 2.68% in the US, and by -0.03% in the rest of the world relative to the status quo. However, there is substantial heterogeneity across the 134 geographical entities that we investigate. Gross value of EU-US trade could triple, but its value added would grow by substantially less. Moreover, trade diversion effects are more pronounced in value added trade than in gross trade. This signals a deepening of the transatlantic value chain. [[CESifo Working Paper No. 5150, 2014](https://www.cesifo-group.de/DocDL/cesifo1_wp5150.pdf)]
 
 <br>
 #### Where is the Value Added? Trade Liberalization and Production Networks, *with R. Aichele*
@@ -42,6 +42,6 @@ Reportedly, firms often find it impossible to finance large and long-term projec
 
 ## Contact Details
 
-* Center for International Economics at the Ifo Institute, Poschingerstrasse 5, D-80637 Munich
+* Center for International Economics at the Ifo Institute, Poschingerstrasse 5, D-81679 Munich
 * Phone +49 89 9224 1295
 * Email [heiland at ifo.de](mailto:heiland@ifo.de)
