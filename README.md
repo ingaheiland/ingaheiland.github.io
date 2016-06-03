@@ -5,7 +5,7 @@ I am a 5th year doctoral student in economics at the University of Munich, Germa
 
 I will be on the job market in the 2016/2017 season and I will be available for interviews at the AEA Meeting in Chicago, January 6-8, 2017.
 
-I obtained my undergraduate education from Tuebingen University, Germany. In the course of my graduate studies I have visited the University of Missouri at Columbia, Stanford University, and the University of Colorado at Boulder. 
+I obtained my undergraduate education from Tuebingen University, Germany. In the course of my graduate studies I have visited Stanford University and the University of Colorado at Boulder. 
 
 ## CV
 
