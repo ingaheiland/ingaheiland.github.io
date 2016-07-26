@@ -44,7 +44,7 @@ severe for value added trade than for gross trade. This highlights the importanc
 global value chains in understanding the effects of the TTIP on outsiders and the
 global economy. [[ifo Working Paper No. 219, 2016](https://www.cesifo-group.de/DocDL/wp-2016-219-aichele-felbemayr-heiland-welfare-ttip.pdf)]
 
-*This paper updates the results presented in* #### Going Deep: The Trade and Welfare Effects of TTIP, *with R. Aichele and G. Felbermayr* 
+*This paper updates the results presented in* **Going Deep: The Trade and Welfare Effects of TTIP,** ***with R. Aichele and G. Felbermayr*** 
 [[CESifo Working Paper No. 5150, 2014](https://www.cesifo-group.de/DocDL/cesifo1_wp5150.pdf)]
 
 <br>
