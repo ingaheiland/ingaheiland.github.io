@@ -24,8 +24,31 @@ Firms facing uncertain demand at the time of production expose their shareholder
 Many countries offer state credit guarantee programs to improve access to finance for exporting firms. In the case of Germany, accumulated returns to the scheme deriving from risk-compensating premia have outweighed accumulated losses over the past 60 years. Why do private financial agents not step in? We build a simple model with heterogeneous firms that rationalizes demand for state guarantees with specific cost advantages of the government. We test the model’s predictions with detailed firm-level data and find supportive evidence: State credit guarantees in Germany increase firms’ exports. This effect is stronger for firms that are dependent on external finance, if the value at risk is large, and at times when refinancing conditions are tight. [[CESifo Working Paper No. 5176, 2015](https://www.cesifo-group.de/DocDL/cesifo1_wp5176.pdf)]
 
 <br>
-#### Going Deep: The Trade and Welfare Effects of TTIP, *with R. Aichele and G. Felbermayr*
-Since July 2013, the EU and the US have been negotiating a preferential trade agreement (PTA), the Transatlantic Trade and Investment Partnership (TTIP). We use a multi-country, multi-industry Ricardian trade model with national and international input-output linkages to quantify its potential economic consequences. We structurally estimate the sectoral trade flow elasticities of trade costs and of existing PTAs. We simulate the trade, value added, and welfare effects of the TTIP, assuming that the agreement would eliminate all transatlantic tariffs and reduce non-tariff barriers as other deep PTAs have. The long-run level of real per capita income would change by 2.12% in the EU, by 2.68% in the US, and by -0.03% in the rest of the world relative to the status quo. However, there is substantial heterogeneity across the 134 geographical entities that we investigate. Gross value of EU-US trade could triple, but its value added would grow by substantially less. Moreover, trade diversion effects are more pronounced in value added trade than in gross trade. This signals a deepening of the transatlantic value chain. [[CESifo Working Paper No. 5150, 2014](https://www.cesifo-group.de/DocDL/cesifo1_wp5150.pdf)]
+#### Going Deep: The Trade and Welfare Effects of TTIP Revised, *with R. Aichele and G. Felbermayr*
+Since July 2013, the EU and the United States have been negotiating a preferential
+trade agreement, the Transatlantic Trade and Investment Partnership (TTIP). We
+use a multi-country, multi-industry Ricardian trade model with national and international
+input-output linkages to quantify its potential economic consequences. We
+structurally estimate the model's unobserved parameters and the eect of existing
+preferential trade agreements on trade cost. With those estimates in hand, we simulate
+the trade, value added, and welfare effects of the TTIP, assuming that the
+agreement would eliminate all transatlantic tariffs and reduce non-tariff barriers as
+other deep PTAs have done in the past. We find a long-run increase of real income
+of .4% for the EU, by .5% for the United States, and by -.02% for the rest of the
+world relative to the status quo. However, there is substantial heterogeneity across
+the 140 geographical entities that we investigate. Gross value of EU-US trade is
+predicted to increase by 50%, but the content of EU and US value added would
+decrease, signaling a deepening of the transatlantic production network. Moreover,
+we quantify trade diversion effects on third countries and find that those are less
+severe for value added trade than for gross trade. This highlights the importance of
+global value chains in understanding the effects of the TTIP on outsiders and the
+global economy. [[ifo Working Paper No. 219, 2016](https://www.cesifo-group.de/DocDL/wp-2016-219-aichele-felbemayr-heiland-welfare-ttip.pdf)]
+
+*This paper updates the results presented in  *
+
+<br>
+#### Going Deep: The Trade and Welfare Effects of TTIP, *with R. Aichele and G. Felbermayr* 
+[[CESifo Working Paper No. 5150, 2014](https://www.cesifo-group.de/DocDL/cesifo1_wp5150.pdf)]
 
 <br>
 #### Where is the Value Added? Trade Liberalization and Production Networks, *with R. Aichele*
