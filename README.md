@@ -29,7 +29,7 @@ Since July 2013, the EU and the United States have been negotiating a preferenti
 trade agreement, the Transatlantic Trade and Investment Partnership (TTIP). We
 use a multi-country, multi-industry Ricardian trade model with national and international
 input-output linkages to quantify its potential economic consequences. We
-structurally estimate the model's unobserved parameters and the eect of existing
+structurally estimate the model's unobserved parameters and the effect of existing
 preferential trade agreements on trade cost. With those estimates in hand, we simulate
 the trade, value added, and welfare effects of the TTIP, assuming that the
 agreement would eliminate all transatlantic tariffs and reduce non-tariff barriers as
