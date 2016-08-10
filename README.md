@@ -12,6 +12,7 @@ I obtained my undergraduate education from Tuebingen University, Germany. In the
 * [PDF](pdfs/cv_IngaHeiland.pdf)
 * [My professional profile at the Ifo Institute](http://www.cesifo-group.de/heiland-i) 
 
+<br>
 ## Research
 
 #### Global Risk Sharing Through Trade in Goods and Assets: Theory and Evidence, *Job Market Paper*
