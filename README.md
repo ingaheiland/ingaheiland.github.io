@@ -20,6 +20,13 @@ Firms facing uncertain demand at the time of production expose their shareholder
 
 
 <br>
+#### Heterogeneous Workers, Trade, and Migration, *with W. Kohler*
+We argue that the narrative of variety-induced gains from trade in differentiated goods needs revision. If producing differentiated varieties of a good requires differentiated skills and if the work force is heterogeneous in these skills, then firms are likely to have monopsony power. We show that trade then has adverse labor market effects: It increases the monopsony power of firms and worsens the average quality of matches between firms and workers. We also show that international migration has the opposite beneficial effects. Our model can explain two-way migration among similar countries, a pattern that features prominently in migration data. 
+[PDF](pdfs/HeilandKohler_201608.pdf)
+<![[CESifo Working Paper No. 4387, 2013](https://www.cesifo-group.de/DocDL/cesifo1_wp4387.pdf)]>
+
+
+<br>
 #### Where is the Value Added? Trade Liberalization and Production Networks, *with R. Aichele*
 
 Fragmentation of the global value chain makes it difficult to assess the effects of trade liberalization on the global pattern of production. Gross bilateral trade flows no longer reveal a country's or a sector's value added contribution. Yet, it is value added that matters for employment and welfare. We derive a structural equation for value added trade flows and theory-based measures for production networks from a multi-sector gravity model with inter-sectoral linkages to analyze the effects of trade liberalization in the presence of globally fragmented value chains. We estimate the model's key parameters, calibrate it to the year 2000 using the World Input-Output Database, and perform a counterfactual analysis of China's WTO accession. We find that China's WTO entry accounts for about 45\% of the decrease in China's value added exports to exports ratio and for about 7\% of the decline in this figure on the world level as observed between 2000 and 2007. Furthermore, our results imply that China's WTO accession was the driving force behind the strengthening of production networks with its neighbors and led to significant welfare gains for China, Australia, and the proximate Asian economies. [[CESifo Working Paper No. 6062, 2016](https://www.cesifo-group.de/DocDL/cesifo1_wp6026.pdf)]
@@ -55,12 +62,6 @@ global economy. [[ifo Working Paper No. 219, 2016](https://www.cesifo-group.de/D
 
 Many countries offer state credit guarantee programs to improve access to finance for exporting firms. In the case of Germany, accumulated returns to the scheme deriving from risk-compensating premia have outweighed accumulated losses over the past 60 years. Why do private financial agents not step in? We build a simple model with heterogeneous firms that rationalizes demand for state guarantees with specific cost advantages of the government. We test the model’s predictions with detailed firm-level data and find supportive evidence: State credit guarantees in Germany increase firms’ exports. This effect is stronger for firms that are dependent on external finance, if the value at risk is large, and at times when refinancing conditions are tight. [[CESifo Working Paper No. 5176, 2015](https://www.cesifo-group.de/DocDL/cesifo1_wp5176.pdf)]
 
-
-<br>
-#### Heterogeneous Workers, Trade, and Migration, *with W. Kohler*
-We argue that the narrative of variety-induced gains from trade in differentiated goods needs revision. If producing differentiated varieties of a good requires differentiated skills and if the work force is heterogeneous in these skills, then firms are likely to have monopsony power. We show that trade then has adverse labor market effects: It increases the monopsony power of firms and worsens the average quality of matches between firms and workers. We also show that international migration has the opposite beneficial effects. Our model can explain two-way migration among similar countries, a pattern that features prominently in migration data. 
-[PDF](pdfs/HeilandKohler_201608.pdf)
-<![[CESifo Working Paper No. 4387, 2013](https://www.cesifo-group.de/DocDL/cesifo1_wp4387.pdf)]>
 
 <br>
 #### Mitigating Liquidity Constraints: Public Export Credit Guarantees in Germany, *with G. Felbermayr and E. Yalcin*
