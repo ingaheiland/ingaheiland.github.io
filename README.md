@@ -9,15 +9,14 @@ I obtained my undergraduate education from Tuebingen University, Germany. In the
 
 ## CV
 
-* [PDF](pdfs/cv_IngaHeiland.pdf)
+* [PDF](pdfs/CV_IngaHeiland.pdf)
 * [My professional profile at the Ifo Institute](http://www.cesifo-group.de/heiland-i) 
 
 <br>
 ## Research
 
 #### Global Risk Sharing Through Trade in Goods and Assets: Theory and Evidence, *Job Market Paper*
-Firms facing uncertain demand at the time of production expose their shareholders to volatile returns. Risk-averse investors trading multiple assets will favor stocks that tend to yield high returns in bad times, that is, when marginal utility of consumption is high. In this paper, I develop a firm-level gravity model of trade with risk-averse investors to show that firms seeking to maximize their present values will take into account that shareholders discount expected profits depending on the correlation with their expected marginal utility of consumption. The model predicts that, ceteris paribus, firms sell more to markets where profits covary less with the income of their investors. To test this prediction, I use data on stock returns to estimate correlations between demand growth in export markets and expected marginal utility growth of U.S. investors. I then show that the covariance pattern is reflected in the pattern of U.S. exports across destination markets and time within narrowly defined product-level categories. I conclude that by maximizing shareholder value, exporters are actively engaged in global risk sharing.
-*[First draft coming soon]*
+Firms facing uncertain demand at the time of production expose their shareholders to volatile returns. Risk-averse investors trading multiple assets will favor stocks that tend to yield high returns in bad times, that is, when marginal utility of consumption is high. In this paper, I develop a firm-level gravity model of trade with risk-averse investors to show that firms seeking to maximize their present values will take into account that shareholders discount expected profits depending on the correlation with their expected marginal utility of consumption. The model predicts that, ceteris paribus, firms sell more to markets where profits covary less with the income of their investors. To test this prediction, I use data on stock returns to estimate correlations between demand growth in export markets and expected marginal utility growth of U.S. investors. I then show that the covariance pattern is reflected in the pattern of U.S. exports across destination markets and time within narrowly defined product-level categories. I conclude that by maximizing shareholder value, exporters are actively engaged in global risk sharing. [PDF](pdfs/Heiland_JMP_201609.pdf)
 
 
 <br>
@@ -59,7 +58,9 @@ Many countries offer state credit guarantee programs to improve access to financ
 
 <br>
 #### Heterogeneous Workers, Trade, and Migration, *with W. Kohler*
-We argue that the narrative of variety-induced gains from trade in differentiated goods needs revision. If producing differentiated varieties of a good requires differentiated skills and if the work force is heterogeneous in these skills, then firms are likely to have monopsony power. We show that trade then has adverse labor market effects: It increases the monopsony power of firms and worsens the average quality of matches between firms and workers. We also show that international migration has the opposite beneficial effects. Our model can explain two-way migration among similar countries, a pattern that features prominently in migration data. [[CESifo Working Paper No. 4387, 2013](https://www.cesifo-group.de/DocDL/cesifo1_wp4387.pdf)]
+We argue that the narrative of variety-induced gains from trade in differentiated goods needs revision. If producing differentiated varieties of a good requires differentiated skills and if the work force is heterogeneous in these skills, then firms are likely to have monopsony power. We show that trade then has adverse labor market effects: It increases the monopsony power of firms and worsens the average quality of matches between firms and workers. We also show that international migration has the opposite beneficial effects. Our model can explain two-way migration among similar countries, a pattern that features prominently in migration data. 
+[PDF](pdfs/HeilandKohler_201608.pdf)
+<![[CESifo Working Paper No. 4387, 2013](https://www.cesifo-group.de/DocDL/cesifo1_wp4387.pdf)]>
 
 <br>
 #### Mitigating Liquidity Constraints: Public Export Credit Guarantees in Germany, *with G. Felbermayr and E. Yalcin*
