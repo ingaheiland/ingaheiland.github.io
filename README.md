@@ -23,7 +23,7 @@ Firms facing uncertain demand at the time of production expose their shareholder
 #### Heterogeneous Workers, Trade, and Migration, *with W. Kohler*
 We argue that the narrative of variety-induced gains from trade in differentiated goods needs revision. If producing differentiated varieties of a good requires differentiated skills and if the work force is heterogeneous in these skills, then firms are likely to have monopsony power. We show that trade then has adverse labor market effects: It increases the monopsony power of firms and worsens the average quality of matches between firms and workers. We also show that international migration has the opposite beneficial effects. Our model can explain two-way migration among similar countries, a pattern that features prominently in migration data. 
 [PDF](pdfs/HeilandKohler_201608.pdf)
-<![[CESifo Working Paper No. 4387, 2013](https://www.cesifo-group.de/DocDL/cesifo1_wp4387.pdf)]>
+<!--[[CESifo Working Paper No. 4387, 2013](https://www.cesifo-group.de/DocDL/cesifo1_wp4387.pdf)]-->
 
 
 <br>
