@@ -112,13 +112,6 @@ a:hover small {
   margin:0 auto;
 }
 
-.contentwrap {
-    background-color:  #009440
-}
-
-.contentArea {
-    background-color:  #009440
-}
 
 
 
@@ -172,6 +165,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  background-color:  #009440;
 }
 
 header ul {
