@@ -255,7 +255,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
-    width:auto;
+    width:400px;
     margin:0;
   }
 
