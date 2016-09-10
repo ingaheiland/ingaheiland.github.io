@@ -9,7 +9,7 @@ I obtained my undergraduate education from Tuebingen University, Germany. In the
 
 ## CV
 
-* [PDF](pdfs/CV_IngaHeiland.pdf)
+* [PDF](pdfs/cv_IngaHeiland.pdf)
 * [My professional profile at the Ifo Institute](http://www.cesifo-group.de/heiland-i) 
 
 <br>
