@@ -62,10 +62,27 @@ body {
   font-weight:400;
 }
 
-h1, h2, h3, h4, h5, h6 {
+
+h1 {
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 20px 0px;
 }
+
+
+
+h2, h3 {
+  color:#222;
+  margin:0 0 10px 0px;
+}
+
+
+h4, h5, h6 {
+  color:#222;
+  margin:0 0 5px;
+}
+
+
+
 
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
@@ -108,10 +125,9 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:820px;
   margin:0 auto;
 }
-
 
 
 
@@ -161,11 +177,13 @@ img {
 }
 
 header {
-  width:270px;
+  width:240px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
   background-color:  #009440;
+  text-align:center;
+  padding-top:10px;
 }
 
 header ul {
@@ -228,7 +246,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:550px;
   float:right;
   padding-bottom:50px;
 }
@@ -255,7 +273,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
-    width:400px;
+    width:auto;
     margin:0;
   }
 
