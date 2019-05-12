@@ -105,7 +105,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#1D87C8;
+  color:#009440;
   text-decoration:none;
 }
 
@@ -181,7 +181,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  background-color:  #1D87C8;
+  background-color:  #009440;
   text-align:center;
   padding-top:10px;
 }
