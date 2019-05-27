@@ -199,17 +199,6 @@ header ul a:hover {
   color:#069;
 }
 
-li {
-  float: left;
-  position: relative;
-}
-  
-li:nth-child(2n+1) {clear: both;}
-
-ul {
-  overflow:hidden
-}
-
 header li {
   float:left;
   height:30px;
