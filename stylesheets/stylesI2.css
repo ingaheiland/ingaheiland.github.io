@@ -200,6 +200,11 @@ header ul a:hover {
 }
 
 header li {
+  float: left;
+  position: relative;
+}
+  
+header li {
   float:left;
   height:30px;
 }
