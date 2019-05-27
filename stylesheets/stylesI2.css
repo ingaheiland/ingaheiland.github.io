@@ -204,6 +204,9 @@ header li {
   height:30px;
 }
 
+ul {
+  position:fixed;
+}
 
 
 header ul a small {
