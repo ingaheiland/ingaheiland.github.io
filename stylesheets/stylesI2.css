@@ -206,6 +206,10 @@ li {
   
 li:nth-child(2n+1) {clear: both;}
 
+ul {
+  overflow:hidden
+}
+
 header li {
   float:left;
   height:30px;
