@@ -204,6 +204,8 @@ header li {
   position: relative;
 }
   
+li:nth-child(2n+1) {clear: both;}
+
 header li {
   float:left;
   height:30px;
