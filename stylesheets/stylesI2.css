@@ -308,7 +308,8 @@ footer {
   }
 
   header li, header ul li + li + li {
-    width:99%;
+    width:33%;
+    position:static;
   }
 }
 
